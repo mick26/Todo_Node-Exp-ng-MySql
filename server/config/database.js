@@ -5,6 +5,6 @@ MySql Database Connection Settings
 exports.dbOptions = {
       	host: 'localhost',
         user: 'admin',
-        password: 'password',
+        password: 'letmein',
         database: 'node-todo'
 };
